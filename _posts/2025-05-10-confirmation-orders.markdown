@@ -1,9 +1,3 @@
-<div id="paypal-container-9T8AC4EECYD7N"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "9T8AC4EECYD7N",
-  }).render("#paypal-container-9T8AC4EECYD7N")
-</script>
 ---
 layout: post
 title:  Confirmation Order
